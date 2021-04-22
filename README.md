@@ -1,4 +1,4 @@
-## What's up Internet. I'm Sathwik 👋
+## What's up Internet! I'm Sathwik 👋
 #### Welcome to My Code Library 👨‍💻 
 - ⚡ &nbsp;I love math, statistics, programming, data science, and machine learning
 - 🌱 &nbsp;I am a huge advocate for lifelong learning and growing everyday 
@@ -10,7 +10,7 @@
   - 🎥
   - 🏏
   - 🗺️
-- 📝 &nbsp;Currently I am learning Deep Learning, specifically image classification  
+- 📝 &nbsp;Currently I am learning Web Development & Deep Learning, specifically image classification  
 
 
 
