@@ -14,5 +14,7 @@
 - 📝 &nbsp;Currently I am dipping my toes in deep learning by working with neural networks and ConvNets (image classification project). Eventually down the lane, I want to dabble in Front End Development (personal-portfolio-website)
 
 
-
 [![Sathwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikkes&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/sathwikkes/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikkes&layout=compact)](https://github.com/sathwikkes/github-readme-stats)
+
