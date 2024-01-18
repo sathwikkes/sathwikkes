@@ -15,12 +15,10 @@
 ```javascript
 class Sathwik Kesappragada {
   const ABOUT = `
-    Hello 👋👋, I'm Sathwik Kesappragada, an accomplished Data Analyst with a passion for crafting user-centric web solutions.
-    With over three years of experience in the industry, I have developed a keen expertise in HTML, CSS, JavaScript, and Vue.js.
-    My journey has led me to deliver high-quality web applications, including a notable project that significantly improved user engagement.
-
-    I'm ambitious and love new challenges :)
-    My vast variety of skills is continuously expanding.
+    Hello 👋👋, I'm Sathwik Kesappragada, an accomplished Data Analyst with a passion for building user-driven digital ecosystems. My applied math and stat background fuels my data intuition, while my passion for visualization helps businesses translate insights into action.
+    With experience in the industry, I have developed a keen expertise in Python, HTML, CSS, JavaScript. 
+    🌱 Huge advocate for lifelong learning and growing everyday #MambaMentality #KobeBryant 
+    Highly ambitious :)
     `
 
   constructor() {
