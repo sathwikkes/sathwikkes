@@ -24,10 +24,10 @@ class Sathwik Kesappragada {
   constructor() {
     this.name = "Sathwik Kesappragada"
     this.about = ABOUT
-    this.email = "sathwik.kesappragada97@@gmail.com"
+    this.email = "sathwik.kesappragada97@gmail.com"
     this.userName = "sathwikkes"
-    this.dayOfBirthTimestamp = 870924739
-    this.location = "Rajahmundry, Andra Pradhesh, India"
+    this.dayOfBirthTimestamp = 870919666
+    this.location = "Rajahmundry, Andhra Pradesh, India"
   }
 
   workExperience() {
@@ -43,7 +43,7 @@ class Sathwik Kesappragada {
     return [
       { "2022-2022": "Business Analysis for Digital Transformation @ Trinity College" },
       { "2020-2021": "Data Science Career Track @ Springboard" },
-      { "2015-2020": "Applied Mathematics, Bachelor's degree @ University of California, Riverside" }
+      { "2015-2020": "Applied Mathematics, Bachelors degree @ University of California, Riverside" }
     ]
   }
 
@@ -53,7 +53,7 @@ class Sathwik Kesappragada {
       'Python', 'R',
       'D3.js', 'Plotly.js', 'React', 
       'Visual Studio Code', 'Excel', 'Tableau', 'AWS', 'Snowflake',  // ->> Developer Tools
-      'npm/yarn', 'Webpack/Vite', 'Git/GitHub/GitLab',
+      'npm/yarn', 'Homebrew', 'Git/GitHub/GitLab',
       'Node.js', 'SQLite', 'MongoDB', 'PostgreSQL',
       'Python', '...|'
     ]
